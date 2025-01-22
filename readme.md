@@ -145,8 +145,11 @@
 #### 人工智能
 ##### 《Artificial Intelligence A Modern Approach, 4th Edition》《人工智能 现代方法第4版》
   英文《Artificial Intelligence A Modern Approach, 4th Edition》(出版年:2020-3) https://book.douban.com/subject/35046440/
+  ###
   中文《人工智能 现代方法第4版》人工智能（第4版）(出版年:2022-11)  https://book.douban.com/subject/36152133/
+  ###
   本书全面、深入地探讨了人工智能（AI）领域的理论和实践，以统一的风格将当今流行的人工智能思想和术语融合到引起广泛关注的应用中，真正做到理论和实践相结合。
+
 
 #### 机器学习
 #### 深度学习 神经网络
