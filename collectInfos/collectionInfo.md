@@ -11,11 +11,17 @@
 
 
 #### 人工智能学习路线图
-人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理   https://github.com/tangyudi/Ai-Learn
+ - 1 人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理   https://github.com/tangyudi/Ai-Learn
+ - 2 ApacheCN AI 路线图（知识树）  https://github.com/apachecn/ai-roadmap
+ - 3 AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2   https://github.com/apachecn/ailearning
+ - 4 100-Days-Of-ML-Code(中|英) 
+    https://github.com/Avik-Jain/100-Days-Of-ML-Code
+    https://github.com/MLEveryday/100-Days-Of-ML-Code
 
 #### 汇总整理AI技术&AI工具&免费书籍&学习教程&实用工具&实用插件&资料集合
 1 按年复盘整理AI技术&AI工具&免费书籍&学习教程&实用工具&实用插件&资料集合  https://github.com/GitHubDaily/GitHubDaily
 2 大数据/数据挖掘/推荐系统/机器学习相关资源  https://github.com/weiweifan/Big-Data-Resources
+
 
 ### AI领军人物|博客类
 AI     https://github.com/codeman008/Excellent_person_blog
