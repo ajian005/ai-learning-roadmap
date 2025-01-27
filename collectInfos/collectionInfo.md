@@ -8,6 +8,7 @@
 #### 吴恩达新作《如何在人工智能领域建立你的职业生涯》  https://www.deeplearning.ai/the-batch/how-to-build-a-career-in-ai-part-2-learning-technical-skills/
 #### ai-learning-roadmap(前辈在5年前整理的成功):  https://github.com/liuyubobobo/ai-learning-roadmap
 #### Datawhale  https://github.com/datawhalechina
+#### 浙大-人工智能研究所-吴飞《大学生人工智能素养红皮书（2024版）》中文版全文发布  https://mp.weixin.qq.com/s?__biz=Mzg2ODY2ODI4OQ==&mid=2247489480&idx=1&sn=a02f3192db3926ac6de2aeaa22c748c1&scene=21#wechat_redirect
 
 
 #### 人工智能学习路线图
@@ -64,6 +65,11 @@ ModelScope旨在打造下一代开源的模型即服务共享平台，为泛AI�
 ModelScope 社区成立于 2022 年 6 月，是一个模型开源社区及创新平台，由阿里巴巴通义实验室（Institutefor Intelligent Computing），联合CCF开源发展委员会，共同作为项目发起方。社区联合国内 AI 领域合作伙伴与高校机构，致力于通过开放的社区合作，构建深度学习相关的模型开源社区，并开放相关模型创新技术，推动基于“模型即服务”（Model-as-a-Service）理念的模型应用生态的繁荣发展。
 #### 通往AGI之路(飞书文档)-字节跳动系
 通往AGI之路(飞书文档)  https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e
+
+
+## AI-核心
+### RAG
+#### awesome-rag   https://github.com/awesome-rag/awesome-rag
 
 
 
