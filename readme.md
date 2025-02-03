@@ -178,6 +178,9 @@ AI是科学与艺术结合
 
     机器学习方法 李航
 
+  - **3 DeepSeek 梁文锋 **
+    DeepSeek大模型出圈
+
 ## 5 自驱自学终身学习践行者-推荐布鲁姆分类法学习路径
 ![alt text](<src/images/BLOOMS StuadyMethod-image.png>)
 推荐布鲁姆分类法学习路径
