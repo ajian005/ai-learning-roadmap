@@ -53,6 +53,8 @@ https://github.com/codeman008/Deeplearning-Machinelearning-Algorithm-books
  - 6 Python机器学习、深度学习算法开发等学习资源分享  https://github.com/aialgorithm/AiPy
     https://github.com/aialgorithm/Blog
 
+ - 7 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）   https://github.com/liguodongiot/llm-action
+
 ### AI课程视频类
  - 1 机器学习&深度学习主题视频汇总 https://github.com/codeman008/Deeplearning-Machinelearning-Algorithm-books
 
